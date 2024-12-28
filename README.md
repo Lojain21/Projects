@@ -1,4 +1,4 @@
-# 🚗 Used Cars Dataset Analysis  
+# 🚗 Used Cars Dataset Analysis | [View Project](https://github.com/Lojain21/Used-Cars-Analysis/blob/main/Used_cars_dataset_project.ipynb)
 
 ## 📌 Project Overview  
 This project focuses on analyzing a large dataset of used cars from Craigslist to extract insights, clean data, and prepare it for exploratory and predictive analysis. The dataset was processed to remove inconsistencies, handle missing data, and standardize information, enabling meaningful exploration and analysis.  
@@ -80,4 +80,4 @@ This project focuses on analyzing a large dataset of used cars from Craigslist t
   - `matplotlib` and `seaborn` for visualizations  
 
 ---
-[View Project](https://github.com/Lojain21/Used-Cars-Analysis/blob/main/Used_cars_dataset_project.ipynb)
+
