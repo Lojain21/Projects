@@ -80,4 +80,4 @@ This project focuses on analyzing a large dataset of used cars from Craigslist t
   - `matplotlib` and `seaborn` for visualizations  
 
 ---
-
+[View Project](https://github.com/Lojain21/Used-Cars-Analysis/blob/main/Used_cars_dataset_project.ipynb)
