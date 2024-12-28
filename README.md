@@ -32,7 +32,29 @@ This project focuses on analyzing a large dataset of used cars from Craigslist t
 ## 🔍 Exploratory Data Analysis (EDA)  
 - Summary statistics were calculated to understand the distribution of features.  
 - Key relationships between attributes like `price`, `year`, `odometer`, and `manufacturer` were explored.  
-- Patterns in categorical features such as `fuel` type and `transmission` were visualized.  
+- Patterns in categorical features such as `fuel` type and `transmission` were visualized.
+---
+### 📈 Insights  
+1. **Price Distribution:**  
+   - Majority of vehicles are priced between \$5,000 and \$15,000, with a small number of high-end vehicles exceeding \$50,000.  
+
+2. **Vehicle Age:**  
+   - Older vehicles (10+ years) are predominantly listed at lower prices, while newer models command a premium.  
+
+3. **Fuel Type Trends:**  
+   - Gasoline-powered vehicles dominate the dataset, followed by diesel. Electric and hybrid options make up a minimal portion of listings.  
+
+4. **Odometer Impact:**  
+   - Lower mileage vehicles are priced significantly higher than high-mileage counterparts, showcasing a clear inverse relationship.  
+
+5. **Condition Influence:**  
+   - Vehicles in "excellent" and "like new" condition are priced 20–40% higher compared to those in "fair" or "good" condition.  
+
+6. **Regional Trends:**  
+   - Urban regions tend to have higher vehicle prices due to demand, while rural areas list vehicles at more competitive prices.  
+
+7. **Transmission Preference:**  
+   - Automatic transmissions dominate listings, with manual transmission vehicles primarily in specific regions or niche markets.  
 
 ---
 
